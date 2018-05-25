@@ -1,0 +1,8 @@
+MailHost=smtp.office365.com
+MailPort=587
+Username=hypercloud@hypergrid.com
+Password=Hypergrid110!
+SecureSMTPConnection=True
+FromEmail=hypercloud@hypergrid.com
+FailureEmail=hypercloud@hypergrid.com
+BccEmail=hypercloud@hypergrid.com
